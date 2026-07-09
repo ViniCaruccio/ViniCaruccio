@@ -4,7 +4,7 @@
 ###
 
 <div align="left">
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ViniCaruccio)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 ###
